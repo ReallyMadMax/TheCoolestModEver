@@ -1,6 +1,7 @@
 package net.maxdilger.skyrim;
 
 import com.mojang.logging.LogUtils;
+import net.maxdilger.skyrim.block.ModBlocks;
 import net.maxdilger.skyrim.item.ModCreativeModTabs;
 import net.maxdilger.skyrim.item.ModItems;
 
@@ -29,6 +30,7 @@ public class Skyrim {
         ModCreativeModTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 

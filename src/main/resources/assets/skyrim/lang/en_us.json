@@ -1,5 +1,9 @@
 {
   "item.skyrim.sapphire": "Sapphire",
-  "item.skyrim.raw_sapphire": "Raw Sapphire"
+  "item.skyrim.raw_sapphire": "Raw Sapphire",
 
+  "block.skyrim.sapphire_block": "Block of Sapphire",
+  "block.skyrim.raw_sapphire_block": "Raw block of Sapphire",
+
+  "creative.tutorial_tab": "Sapphire Tutorial Tab"
 }
