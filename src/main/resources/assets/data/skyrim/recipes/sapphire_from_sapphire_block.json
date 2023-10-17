@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "skyrim:sapphire_block"
+    }
+  ],
+  "result": {
+    "item": "skyrim:sapphire",
+    "count": 9
+  }
+
+}
