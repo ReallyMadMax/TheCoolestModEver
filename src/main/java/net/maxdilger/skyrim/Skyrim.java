@@ -4,7 +4,6 @@ import com.mojang.logging.LogUtils;
 import net.maxdilger.skyrim.block.ModBlocks;
 import net.maxdilger.skyrim.item.ModCreativeModTabs;
 import net.maxdilger.skyrim.item.ModItems;
-
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;

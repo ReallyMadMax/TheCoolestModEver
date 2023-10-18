@@ -5,5 +5,10 @@
   "block.skyrim.sapphire_block": "Block of Sapphire",
   "block.skyrim.raw_sapphire_block": "Raw block of Sapphire",
 
+  "block.skyrim.sapphire_ore": "Sapphire Ore",
+  "block.skyrim.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.skyrim.end_stone_sapphire_ore": "Endstone Sapphire Ore",
+  "block.skyrim.nether_sapphire_ore": "Nether Sapphire Ore",
+
   "creative.tutorial_tab": "Sapphire Tutorial Tab"
 }
