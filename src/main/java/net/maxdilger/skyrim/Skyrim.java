@@ -3,6 +3,7 @@ package net.maxdilger.skyrim;
 import com.mojang.logging.LogUtils;
 import net.maxdilger.skyrim.block.ModBlocks;
 import net.maxdilger.skyrim.item.ModCreativeModTabs;
+import net.maxdilger.skyrim.item.ModFoods;
 import net.maxdilger.skyrim.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
@@ -30,6 +31,7 @@ public class Skyrim {
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+        ///ModFoods.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 

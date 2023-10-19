@@ -1,6 +1,9 @@
 {
   "item.skyrim.sapphire": "Sapphire",
   "item.skyrim.raw_sapphire": "Raw Sapphire",
+  "item.skyrim.metal_detector": "Metal Detector",
+  "item.skyrim.strawberry": "Strawberry",
+  "item.skyrim.pine_cone": "Pine Cone",
 
   "block.skyrim.sapphire_block": "Block of Sapphire",
   "block.skyrim.raw_sapphire_block": "Raw block of Sapphire",
@@ -10,5 +13,10 @@
   "block.skyrim.end_stone_sapphire_ore": "Endstone Sapphire Ore",
   "block.skyrim.nether_sapphire_ore": "Nether Sapphire Ore",
 
-  "creative.tutorial_tab": "Sapphire Tutorial Tab"
+  "block.skyrim.sound_block": "Sound Block",
+
+  "creative.tutorial_tab": "Sapphire Tutorial Tab",
+
+
+  "tooltip.skyrim.metal_detector.tooltip": "Finds valuables underground"
 }
